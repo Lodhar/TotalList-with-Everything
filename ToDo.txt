@@ -1,0 +1,13 @@
+FAIT
+---------
+- compiler les listes en une seule
+- Remplacer la lettre dans les listes par le nom du disque dur
+
+
+A FAIRE
+----------
+
+- remplacerle point dans la taille par une virgule - (\([0-9]{1,2}).([0-9]{1,2}G\)) par $1,$2 
+- détecter le numéro de série du disque et remplacer les noms de disques par les numéros de séries
+- Export everything command line?
+- Créer un update de la liste associée au disque depuis son numéro de série (programme à part?)

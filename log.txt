@@ -1,0 +1,3 @@
+2017/04/28 16:34:10 AutoIt: 3.3.12.0/X64, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\Liste Totale\ListeTotale.exe
+
+2017/04/28 16:34:12 ERROR: 1 - No folder was selected.

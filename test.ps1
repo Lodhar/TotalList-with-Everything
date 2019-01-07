@@ -1,0 +1,1 @@
+﻿&"$env:ProgramFiles\Everything\es.exe" -p I:\ -s -size -efu -export-efu "E:\_workspace\Liste Totale\test.efu"
